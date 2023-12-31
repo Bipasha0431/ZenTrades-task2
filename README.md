@@ -9,9 +9,9 @@ In the project directory :
     - npm install
     - npm start
     
+
     
 - Json file is imported and field is selected from available field and added to new field.
-
 ![image](https://github.com/Bipasha0431/ZenTrades-task2/assets/88484722/e8680f0c-2509-4da9-add7-e844fd34ff06)
 ![image](https://github.com/Bipasha0431/ZenTrades-task2/assets/88484722/45ff4391-c3f8-49c3-8cbb-f98466ba843e)
 
